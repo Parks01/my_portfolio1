@@ -1,0 +1,33 @@
+.background {
+  background-color: blue;
+}
+.move {
+  float: right;
+}
+.change {
+  background-color:#e4e4e4;
+}
+img {
+  float: right;;
+}
+h2 {
+  font-weight: bold;
+}
+.side {
+  text-align: justify;
+}
+img {
+  float: right;
+}
+.swift {
+  font-weight: bold;
+}
+head {
+  background-color: #e4e4e4;
+}
+h1 {
+  text-decoration: underline;
+}
+.newline {
+  text-decoration: underline;
+}
