@@ -1,5 +1,9 @@
-.background {
-  background-color: blue;
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #faebd7;
 }
 .move {
   float: right;
