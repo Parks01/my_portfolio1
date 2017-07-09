@@ -20,7 +20,7 @@ None
 
 **Description**
 
-This is my portfolio page.
+This is my portfolio page, shows people my interest and past project I have worked on.
 
 **Copyright and License Information**
 
