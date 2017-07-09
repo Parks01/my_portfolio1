@@ -8,8 +8,7 @@ ATOM
 
 **Bugs**
 
-The console said "$" could not be identified. The hmtl is can read my jquery file.
-I used javascript prompts and else statements to ask and answer questions.
+None
 
 **Setup Instructions**
 
@@ -21,8 +20,7 @@ I used javascript prompts and else statements to ask and answer questions.
 
 **Description**
 
-This web page is dedicated to person that is trying to find the proper college for there lifestyle.
-After you click the submit button below, you find your correct college match.
+This is my portfolio page.
 
 **Copyright and License Information**
 

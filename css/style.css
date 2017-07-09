@@ -1,9 +1,32 @@
 h1 {
   text-align: center;
-  text-decoration: underline;
+ font-style: italic;
+ font-weight: bold;
 }
 
 
 body {
   background-color: #faebd7;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+body {
+
+  margin-bottom: 130px;
+}
+
+img {
+  height: 170px;
+  width: 170px;
+  margin-left: 170px;
+  text-align: right;
+}
+
+p {
+  font-weight: bold;
+  font-family:monospace;
+  margin-right: 400px;
 }
